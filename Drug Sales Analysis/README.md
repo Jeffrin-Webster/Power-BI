@@ -174,11 +174,11 @@ ________________________________________
 
 The dashboard consists of three main pages:
 
-- **Top/Bottom Analysis**: Navigate to the Top/Bottom Analysis dashboard to identify and evaluate the highest and lowest performing drugs based on key sales metrics. <a href = "https://github.com/jeevan499/Power-Bi-Projects-/blob/main/Drug%20Sales%20Analysis/Drug%20Sales%20Analysis%20Dashboard%20PDF_page-0001.jpg">View Dashboard</a>
+- **Top/Bottom Analysis**: Navigate to the Top/Bottom Analysis dashboard to identify and evaluate the highest and lowest performing drugs based on key sales metrics. <a href = "https://github.com/Jeffrin-Webster/Power-BI/blob/main/Drug%20Sales%20Analysis/Drug%20Sales%20Analysis%20Dashboard%20PDF_page-0001.jpg">View Dashboard</a>
 
-- **Customer Analysis**: Access the Customer Analysis dashboard to explore customer demographics, purchasing behaviors, and their impact on overall sales performance. <a href = "https://github.com/jeevan499/Power-Bi-Projects-/blob/main/Drug%20Sales%20Analysis/Drug%20Sales%20Analysis%20Dashboard%20PDF_page-0002.jpg">View Dashboard</a>
+- **Customer Analysis**: Access the Customer Analysis dashboard to explore customer demographics, purchasing behaviors, and their impact on overall sales performance. <a href = "https://github.com/Jeffrin-Webster/Power-BI/blob/main/Drug%20Sales%20Analysis/Drug%20Sales%20Analysis%20Dashboard%20PDF_page-0002.jpg">View Dashboard</a>
 
-- **Trend Analysis** Visit the Trend Analysis dashboard to monitor and visualize revenue trends, sales patterns, and growth over different time periods. <a href = "https://github.com/jeevan499/Power-Bi-Projects-/blob/main/Drug%20Sales%20Analysis/Drug%20Sales%20Analysis%20Dashboard%20PDF_page-0003.jpg">View Dashboard</a>
+- **Trend Analysis** Visit the Trend Analysis dashboard to monitor and visualize revenue trends, sales patterns, and growth over different time periods. <a href = "https://github.com/Jeffrin-Webster/Power-BI/blob/main/Drug%20Sales%20Analysis/Drug%20Sales%20Analysis%20Dashboard%20PDF_page-0003.jpg">View Dashboard</a>
 
 ________________________________________
 
