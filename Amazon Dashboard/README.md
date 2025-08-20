@@ -84,11 +84,11 @@ The dataset used in this project includes:
 
 The dashboard consists of three main pages:
 
-- **Overview**: Provides an executive summary of sales data and trends. <a href = "https://github.com/jeevan499/Power-Bi-Projects-/blob/main/Amazon%20Dashboard/Amazon%20Dashboard%20PDF_page-0001.jpg">View Dashboard</a>
+- **Overview**: Provides an executive summary of sales data and trends. <a href = "https://github.com/Jeffrin-Webster/Power-BI/blob/main/Amazon%20Dashboard/Amazon%20Dashboard%20PDF_page-0001.jpg">View Dashboard</a>
 
-- **Products**: Displays detailed product information and sales metrics. <a href = "https://github.com/jeevan499/Power-Bi-Projects-/blob/main/Amazon%20Dashboard/Amazon%20Dashboard%20PDF_page-0002.jpg">View Dashboard</a>
+- **Products**: Displays detailed product information and sales metrics. <a href = "https://github.com/Jeffrin-Webster/Power-BI/blob/main/Amazon%20Dashboard/Amazon%20Dashboard%20PDF_page-0002.jpg">View Dashboard</a>
 
-- **Product** View: Allows users to view specific product details, including images and reviews. <a href = "https://github.com/jeevan499/Power-Bi-Projects-/blob/main/Amazon%20Dashboard/Amazon%20Dashboard%20PDF_page-0003.jpg">View Dashboard</a>
+- **Product** View: Allows users to view specific product details, including images and reviews. <a href = "https://github.com/Jeffrin-Webster/Power-BI/blob/main/Amazon%20Dashboard/Amazon%20Dashboard%20PDF_page-0003.jpg">View Dashboard</a>
 
 #### Technologies Used
 - **Power BI:** For creating interactive dashboards and visualizations.
