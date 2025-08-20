@@ -3,7 +3,7 @@ Welcome to my Data Analytics Dashboard repository! Here, you will find a collect
 
 ## 🚀 Projects Overview
 ### 1. Amazon Sales Analysis Dashboard  
-<a href = "https://github.com/jeevan499/Power-Bi-Projects-/tree/main/Amazon%20Dashboard">View Dashboard</a>
+<a href = "https://github.com/Jeffrin-Webster/Power-BI/tree/main/Amazon%20Dashboard">View Dashboard</a>
 
 **Objective:** To provide a comprehensive analysis of Amazon's sales performance, focusing on identifying top-selling products, revenue trends, and key customer insights.
 
@@ -16,7 +16,7 @@ Welcome to my Data Analytics Dashboard repository! Here, you will find a collect
 
 
 ### 2.  Drug Sales Analysis Dashboard
-<a href = "https://github.com/jeevan499/Power-Bi-Projects-/tree/main/Drug%20Sales%20Analysis">View Dashboard</a>
+<a href = "https://github.com/Jeffrin-Webster/Power-BI/tree/main/Drug%20Sales%20Analysis">View Dashboard</a>
 
 **Objective:** In the pharmaceutical industry, understanding sales trends and customer behavior is crucial. This dashboard helps track the performance of drugs, analyzing sales growth and demographic insights for better strategic decision-making.
 **Key Features:**     
@@ -27,7 +27,7 @@ Welcome to my Data Analytics Dashboard repository! Here, you will find a collect
 •	Insights into high-growth drugs and market trends.
 
 ### 3. HDFC Customer Churn Analysis   
-<a href = "https://github.com/jeevan499/Power-Bi-Projects-/tree/main/HDFC%20Customer%20Churn%20Analysis">View Dashboard</a>
+<a href = "https://github.com/Jeffrin-Webster/Power-BI/tree/main/HDFC%20Customer%20Churn%20Analysis">View Dashboard</a>
 
 **Objective:** Customer churn is a critical issue in the banking sector. This project focuses on analyzing HDFC's customer data to identify patterns, predict potential churn, and provide actionable insights to reduce churn rates.
 **Key Features:**        
@@ -38,7 +38,7 @@ Welcome to my Data Analytics Dashboard repository! Here, you will find a collect
 •	Insights into high-risk customer profiles and suggestions for targeted campaigns.      
 
 ### 4. Ice Cream Sales Analysis Dashboard         
-<a href = "https://github.com/jeevan499/Power-Bi-Projects-/tree/main/Ice%20Cream%20Sales%20Analysis">View Dashboard</a>
+<a href = "https://github.com/Jeffrin-Webster/Power-BI/tree/main/Ice%20Cream%20Sales%20Analysis">View Dashboard</a>
 
 **Objective:** This dashboard analyzes the sales trends of ice cream products, focusing on seasonality, flavor preferences, and geographical insights to help optimize marketing and sales strategies.
 **Key Features:**     
