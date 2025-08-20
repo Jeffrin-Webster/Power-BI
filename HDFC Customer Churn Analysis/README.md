@@ -81,7 +81,7 @@ Create a new table to store all the DAX calculations to perform calculated field
 -	Retain Customers = CALCULATE([Total Customers], ExitCustomer[ExitCategory] = "Retain")      
 -	Previous Month Exit Customers = CALCULATE([Exit Customers], PREVIOUSMONTH(DateMaster[Date]))        
 
-- **Dashboard Interaction** <a href = "https://github.com/jeevan499/Power-Bi-Projects-/blob/main/HDFC%20Customer%20Churn%20Analysis/HDFC%20Report_page-0001.jpg">View Dashboard</a>
+- **Dashboard Interaction** <a href = "https://github.com/Jeffrin-Webster/Power-BI/blob/main/HDFC%20Customer%20Churn%20Analysis/HDFC%20Report_page-0001.jpg">View Dashboard</a>
 
 ### Dashboard
 
